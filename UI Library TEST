@@ -700,8 +700,6 @@ function UILibrary.Load(GUITitle)
 	end
 	
 	return TabLibrary
-	
-	local function CloseOpen()
 	local script = Instance.new("LocalScript")
 
 	function PopupGui()
@@ -715,6 +713,7 @@ function UILibrary.Load(GUITitle)
 			PopupGui()
 		end
 	end)
+end
 end
 end
 return UILibrary
