@@ -701,7 +701,7 @@ function UILibrary.Load(GUITitle)
 	return TabLibrary
 end
 
-local function()
+local function IQAT_fake_script()
 	local script = Instance.new('LocalScript', MainFrame)
 
 	function PopupGui()
