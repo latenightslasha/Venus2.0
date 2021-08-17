@@ -702,7 +702,7 @@ function UILibrary.Load(GUITitle)
 end
 
 local function IQAT_fake_script()
-	local script = Instance.new('LocalScript', MainFrame)
+	local script = Instance.new('LocalScript', UILibrary)
 
 	function PopupGui()
 		if script.Parent.Visible == true then script.Parent.Visible = false
