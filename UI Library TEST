@@ -197,7 +197,7 @@ function UILibrary.Load(GUITitle)
 	MainFrame.Name = "MainFrame"
 	MainFrame.Size = UDim2.new(1,-50,1,-30)
 	MainFrame.Position = UDim2.new(0,25,0,15)
-	MainFrame.ImageColor3 = Color3.fromRGB(50,30,40)
+	MainFrame.ImageColor3 = Color3.fromRGB(50,50,50)
 	MainFrame.Parent = ContainerFrame
 	
 	local MenuBar, DisplayFrame, TitleBar
@@ -701,8 +701,8 @@ function UILibrary.Load(GUITitle)
 	return TabLibrary
 end
 
-local function IQAT_fake_script()
-	local script = Instance.new('LocalScript', ContainerFrame)
+local function()
+	local script = Instance.new('LocalScript', MainFrame)
 
 	function PopupGui()
 		if script.Parent.Visible == true then script.Parent.Visible = false
