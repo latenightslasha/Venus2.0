@@ -161,21 +161,7 @@ local function Tween(GuiObject, Dictionary)
 	TweenBase:Play()
 	return TweenBase
 end
-local function OpenAndClose()
-	local script = Instance.new("LocalScript")
 
-	function PopupGui()
-		if script.Parent.Visible == true then script.Parent.Visible = false
-		else script.Parent.Visible = true
-		end
-	end
-	
-	game:GetService("UserInputService").InputBegan:Connect(function(key)
-		if key.KeyCode == Enum.KeyCode.V then
-			PopupGui()
-		end
-	end)
-end
 
 local UILibrary = {}
 
@@ -714,5 +700,21 @@ function UILibrary.Load(GUITitle)
 	end
 	
 	return TabLibrary
+	
+	local function CloseOpen()
+	local script = Instance.new("LocalScript")
+
+	function PopupGui()
+		if script.Parent.Visible == true then script.Parent.Visible = false
+		else script.Parent.Visible = true
+		end
+	end
+	
+	game:GetService("UserInputService").InputBegan:Connect(function(key)
+		if key.KeyCode == Enum.KeyCode.V then
+			PopupGui()
+		end
+	end)
+end
 end
 return UILibrary
