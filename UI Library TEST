@@ -715,5 +715,4 @@ function UILibrary.Load(GUITitle)
 	end)
 end
 end
-end
 return UILibrary
