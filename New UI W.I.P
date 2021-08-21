@@ -29,12 +29,13 @@
 --discord.gg/rKsJqs6BNK
 --Started Working On New UI: August 21, 2021.
 
+--Group : https://www.roblox.com/groups/6465662/Hello-Please-Join-If-You-are-Cool#!/about
+--Game : Dahood, ID : https://www.roblox.com/games/2788229376/Da-Hood?
 
+-- You Need To Be In The Group Listed Above To Use The Script.
 
 --When Is It Gonna Be Done : Soon, Working On Completing The Regular UI First, Then Adding Features. It'll Be Out In A Week Most Likely.
 --Why'd You Make a New UI Version : Because The Other UI Takes Up The Screen and Causes FPS To Drop.
-
---Dahood Script
 
 --Updates : Removed Cash Tab, Replaced It With Extras Instead.
 
