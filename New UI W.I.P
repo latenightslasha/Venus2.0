@@ -26,7 +26,7 @@
 --]]
 
 
--- discord.gg/rKsJqs6BNK
+-- https://discord.gg/rKsJqs6BNK
 -- Started Working On New UI: August 21, 2021.
 
 -- Group : https://www.roblox.com/groups/6465662/Hello-Please-Join-If-You-are-Cool#!/about
