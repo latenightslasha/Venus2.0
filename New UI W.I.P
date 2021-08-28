@@ -34,7 +34,6 @@
 
 -- You Need To Be In The Group Listed Above To Use The Script.
 
--- When Is It Gonna Be Done : Soon, Working On Completing The Regular UI First, Then Adding Features. It'll Be Out In A Week Most Likely.
 -- Why'd You Make a New UI Version : Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
 -- Updates : Added More Animation Costimization In Animations Page.
