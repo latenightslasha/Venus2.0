@@ -36,9 +36,9 @@
 
 -- Why'd You Make a New UI Version : Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
--- Updates : Added More Animation Costimization In Animations Page.
+-- Updates : Added A Combonation Maker In Animations.
 
--- Future Updates : Adding More Teleports.
+-- Future Updates : Adding More Waypoints / Teleports.
 
 -- V To Open and Close.
 -- Last Updated August 28 12:21 AM EST
