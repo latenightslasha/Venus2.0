@@ -42,7 +42,7 @@
 -- Future Updates : Adding More Teleports.
 
 -- V To Open and Close.
--- Last Updated August 27 10:23 AM EST
+-- Last Updated August 28 12:21 AM EST
 
 -- Don't Disrespect Other Script Owners, Will Lead To Consequences.
 -- Script :
