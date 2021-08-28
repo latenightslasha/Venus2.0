@@ -32,9 +32,11 @@
 -- Group : https://www.roblox.com/groups/6465662/Hello-Please-Join-If-You-are-Cool#!/about
 -- Game : Dahood, ID : https://www.roblox.com/games/2788229376/Da-Hood?
 
+--Works All The Things That Support PSU And Loadstrings / The Script Is A Loadstring And You Need Loadstring Support To Run The Script Because It Needs A Loadstring To Work, Cannot Just Use The PSU Obfuscated Text Because It Needs A Loadstring With The Obfuscate Settings I Chose.
+
 -- You Need To Be In The Group Listed Above To Use The Script.
 
--- Why'd You Make a New UI Version : Because The Other UI Takes Up The Screen and Causes FPS To Drop.
+-- Q: Why'd You Make a New UI Version? A: Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
 -- Updates : Random Updates / Useless Updates.
 
