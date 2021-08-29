@@ -42,12 +42,12 @@
 -- Q: Why'd You Make a New UI Version? A: Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
 -- Big Updates : Fixed Anti-Slow Automatically Working Instead Of When Button Clicked, Added Ud'zal Into Animations Tab.
--- Mini Updates : Added 3 More Waypoints.
+-- Small Updates : Added 3 More Waypoints.
 
 -- Future Updates : Adding More Waypoints.
 
 -- V To Open and Close.
--- Last Updated August 29 4:14 PM EST
+-- Last Updated August 29 5:25 PM EST
 
 
 -- Script :
