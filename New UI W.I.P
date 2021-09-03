@@ -41,12 +41,12 @@
 
 -- Q: Why'd You Make a New UI Version? A: Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
--- Big Updates : New Loading Screen, Work In Progres. Will Fix Bugs Tomorrow!
+-- Big Updates : Loading Screen Bugs Fixed.
 
 -- Future Updates : Adding More Waypoints.
 
 -- V To Open and Close.
--- Last Updated September 1 9:01 PM EST
+-- Last Updated September 2 11:17 PM EST
 
 
 -- Script :
