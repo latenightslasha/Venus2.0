@@ -44,7 +44,7 @@
 -- Big Updates : Made Loading Screen More Neat, Changed UI Stuff To Venus.
 -- Small Updates : Added Update Checker In Venus Tab.
 
--- Future Updates : Adding More Waypoints.
+-- Future Updates : Fixing All Bugs In Extras Tab. ASAP!!
 
 -- V To Open and Close.
 -- Last Updated September 3 9:23 PM EST
