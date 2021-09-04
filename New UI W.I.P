@@ -41,13 +41,13 @@
 
 -- Q: Why'd You Make a New UI Version? A: Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
--- Big Updates : Fixed Tool Reach, Made Loading Screen More Neat.
--- Small Updates : Added More Waypoints.
+-- Big Updates : Made Loading Screen More Neat, Changed UI Stuff To Venus.
+-- Small Updates : Added Update Checker In Venus Tab.
 
 -- Future Updates : Adding More Waypoints.
 
 -- V To Open and Close.
--- Last Updated September 3 2:05 AM EST
+-- Last Updated September 3 9:23 PM EST
 
 
 -- Script :
