@@ -41,9 +41,7 @@
 
 -- Q: Why'd You Make a New UI Version? A: Because The Other UI Takes Up The Screen and Causes FPS To Drop.
 
--- Big Updates : Added Anti-AFK To Auto-Farms, And Fixed All The Glitches In Extras.
-
--- Future Updates : More Waypoints.
+-- Big Updates : Added More Waypoints, And Fixed Some.
 
 -- V To Open and Close.
 -- Last Updated September 3 10:56 PM EST
