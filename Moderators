@@ -1,6 +1,6 @@
 ModIDS = { 
 1626722799, --Myy_Raid
-
+125134162, --Tester . Mug
 
 
 
@@ -8,7 +8,7 @@ ModIDS = {
 
 
 }
-function swagnames()
+function proname()
     for _,Player in pairs(game:GetService('Players'):GetChildren()) do
         if table.find(ModIDS, Player.UserId) then
             if Player.Character then
@@ -27,5 +27,5 @@ function swagnames()
         end
     end
 end
-local success,err = pcall(swagnames)
+local success,err = pcall(proname)
 return ModIDS
